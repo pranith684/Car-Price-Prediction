@@ -2,7 +2,7 @@
 
 This project demonstrates a complete machine learning workflow to predict the selling price of used cars based on their features. The model is built using Python and the Scikit-learn library.
 
-![Actual vs Predicted Prices]("C:\Users\solas\Downloads\actual_vs_predicted.png")
+![Actual vs Predicted Prices](actual_vs_predicted.png)
 
 ---
 
