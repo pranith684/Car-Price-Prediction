@@ -66,7 +66,7 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Car-Price-Prediction.git](https://github.com/YOUR_USERNAME/Car-Price-Prediction.git)
+    git clone [https://github.com/pranith684/Car-Price-Prediction.git](https://github.com/pranith684/Car-Price-Prediction.git)
     cd Car-Price-Prediction
     ```
 2.  **Install the required libraries:**
